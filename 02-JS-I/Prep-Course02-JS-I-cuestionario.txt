@@ -1,0 +1,11 @@
+Homework: Introducción a Javascript
+
+variables: se trata de un archivo que guarda infromacion en el computador o programa .
+
+string: es un tipo de datos de las variables, en este caso seria de tipo texto o cadena de textos y caracteres .
+
+funciones: añade una funcion especifica dentro de una variable alamcenada en argumento, en este caso return retorna el contenido dentro de la funcion. 
+
+declaraciones if: se utilizan para comparar algo y verificar si es verdadero o falso.
+
+valores booleanos: son variables que contienen valores basados en codigo binarios. por ejemplo true o false.
