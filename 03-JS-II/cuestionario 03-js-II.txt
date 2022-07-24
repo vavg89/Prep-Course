@@ -1,0 +1,3 @@
+for: for es un tipo de bucle en el que se le asignan tres datos: una variable , una condicion, y una operacion .
+
+`&&`, `||`, `!`: son operaciones logicas que comparan dos argumentos dando como resultado buleanos.
