@@ -1,0 +1,1 @@
+array : se entiende por array como un banco donde podras almacenar distintos datos para su uso y modifificacion .
