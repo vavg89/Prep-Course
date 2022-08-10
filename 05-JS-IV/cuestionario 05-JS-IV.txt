@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+ estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos:
+son un grupo de propiedades asignadas a una sola variable con indices de caracteres.
+
+	* Propiedades:
+son variables dentro de un objeto . 
+
+	* Métodos:
+los metodos funciones dentro de una propìedad de un objeto .
+
+	* Bucle `for…in`:
+los bucles for-in son utilizados para recorrer una agrupacion de objetos , ya que no se puede usar un bucle for convencional 
+porque los objetos a diferencia de las matrices no tienes indices numericos
+
+	* Notación de puntos vs notación de corchetes:
+la notacion con puntos es mas rapida de usar que con la de corchetes , pero la de corchetes es mas util para usos de metodos o funciones en obgetos y para recorrerlos.
+
+objetos: 
